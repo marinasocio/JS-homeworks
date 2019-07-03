@@ -21,6 +21,6 @@ function reverseString(str) {
 }
 console.log('Excercise 2: ', reverseString('Marina'));
 
-
+// Excercise 3
 
 
